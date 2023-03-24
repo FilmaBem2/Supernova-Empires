@@ -18,8 +18,9 @@ Forge
 
 # Releases
 
-[Curseforge](https://www.curseforge.com/minecraft/modpacks/supernova-empires)
-[Modrinth](https://modrinth.com/modpack/supernova-empires)
+[Curseforge](https://www.curseforge.com/minecraft/modpacks/supernova-empires).
+
+[Modrinth](https://modrinth.com/modpack/supernova-empires).
 
 # Wiki
 
