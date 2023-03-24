@@ -1,0 +1,104 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/menu_background.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = e651dd77-e6f0-464c-86bd-7cfe5c0d27ee1679689468518
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 169
+  action = deep_customization_element:title_screen_branding
+  actionid = 67ee4df1-9907-4fc2-b6a9-4ad5dea403ea1679689468518
+  y = 295
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = eb6dbc1a-9dae-459b-b6ee-15c6ebc7147a1679689468518
+  y = 317
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 16a422b7-bfb5-4c5b-8619-005aa111ed171679689468519
+  y = 184
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 76bdbe9b-0baf-4be9-90c5-ff3fbdee2a6a1679689468519
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 2edbdc9a-3799-435c-9378-fc49dd7a7f7e1679689468519
+  y = 0
+  height = 30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  path = config/fancymenu/se_logo.png
+  orientation = top-centered
+  x = -290
+  width = 577
+  actionid = 9a5ea561-cc12-471b-9d73-f357ba0cd6081679689515325
+  action = addtexture
+  y = -7
+  height = 550
+}
+

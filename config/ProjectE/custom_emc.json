@@ -1,0 +1,232 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:stone|3",
+      "emc": 500
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 30
+    },
+    {
+      "item": "draconicevolution:draconium_ingot|0",
+      "emc": 300
+    },
+    {
+      "item": "draconicevolution:draconic_ingot|0",
+      "emc": 300
+    },
+    {
+      "item": "draconicevolution:draconic_core|0",
+      "emc": 310
+    },
+    {
+      "item": "draconicevolution:wyvern_core|0",
+      "emc": 320
+    },
+    {
+      "item": "draconicevolution:awakened_core|0",
+      "emc": 350
+    },
+    {
+      "item": "draconicevolution:chaotic_core|0",
+      "emc": 370
+    },
+    {
+      "item": "avaritia:infinity_bow|0",
+      "emc": 1000000
+    },
+    {
+      "item": "avaritia:infinity_pickaxe|0",
+      "emc": 1000000
+    },
+    {
+      "item": "avaritia:resource|6",
+      "emc": 50000000000000000
+    },
+    {
+      "item": "fluxnetworks:fluxplug|0",
+      "emc": 10
+    },
+    {
+      "item": "fluxnetworks:fluxpoint|0",
+      "emc": 100
+    },
+    {
+      "item": "extrautils2:crafter|0",
+      "emc": 100
+    },
+    {
+      "item": "mekanismgenerators:generator|6",
+      "emc": 100
+    },
+    {
+      "item": "mekanismgenerators:generator|5",
+      "emc": 100
+    },
+    {
+      "item": "mekanism:ingot|4",
+      "emc": 100000
+    },
+    {
+      "item": "fluxnetworks:flux|0",
+      "emc": 1000000
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 0
+    },
+    {
+      "item": "extrautils2:decorativesolid|3",
+      "emc": 213800
+    },
+    {
+      "item": "extrautils2:endershard|0",
+      "emc": 1313
+    },
+    {
+      "item": "extrautils2:angelring|5",
+      "emc": 0
+    },
+    {
+      "item": "extrautils2:supermobspawner|0",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal_device1|13",
+      "emc": 25600
+    },
+    {
+      "item": "minecraft:sapling|5",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sapling|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sapling|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sapling|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sapling|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sapling|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald|0",
+      "emc": 7777
+    },
+    {
+      "item": "minecraft:nether_star|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond|0",
+      "emc": 1200
+    },
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 140
+    },
+    {
+      "item": "minecraft:coal|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_ingot|0",
+      "emc": 743
+    },
+    {
+      "item": "minecraft:coal|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:stick|0",
+      "emc": 50
+    },
+    {
+      "item": "minecraft:planks|5",
+      "emc": 250
+    },
+    {
+      "item": "minecraft:hay_block|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:planks|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:log|0",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:log|2",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:log|1",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:log|3",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:planks|0",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:planks|2",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:planks|1",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:planks|3",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:white_shulker_box|0",
+      "emc": 50000
+    },
+    {
+      "item": "extrautils2:suncrystal|0",
+      "emc": 15
+    },
+    {
+      "item": "avaritia:resource|3",
+      "emc": 5000000000000000
+    },
+    {
+      "item": "avaritia:resource|0",
+      "emc": 5000
+    },
+    {
+      "item": "avaritia:resource|1",
+      "emc": 50000
+    },
+    {
+      "item": "avaritia:resource|5",
+      "emc": 5000000000000000000
+    },
+    {
+      "item": "minecraft:dye|4",
+      "emc": 222
+    },
+    {
+      "item": "mysticalagriculture:crafting|5",
+      "emc": 301
+    }
+  ]
+}
