@@ -16,6 +16,11 @@ You can explore a pre-made world or create your world to explore and find some o
 
 Forge
 
+# Releases
+
+![Curseforge](https://www.curseforge.com/minecraft/modpacks/supernova-empires)
+![Modrinth](https://modrinth.com/modpack/supernova-empires)
+
 # Wiki
 
 To go the Supernova Empires Wiki click [here](https://filmabem.notion.site/Supernova-Empires-Wiki-18010225aa2b4b30ac6beacc6ad441a4).
