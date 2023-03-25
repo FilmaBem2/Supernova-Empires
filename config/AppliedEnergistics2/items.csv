@@ -10432,19 +10432,6 @@ moarsigns:nugget:2, Emerald Nugget
 moarsigns:nugget:3, Lapis Nugget
 moarsigns:nugget:4, Quartz Nugget
 moarsigns:sign_toolbox:0, Sign Toolbox §2(Edit)§r
-mob_grinding_utils:fan_upgrade:0, Mob Fan Upgrade
-mob_grinding_utils:fan_upgrade:1, Mob Fan Upgrade
-mob_grinding_utils:fan_upgrade:2, Mob Fan Upgrade
-mob_grinding_utils:absorption_upgrade:0, Absorption Radius Upgrade
-mob_grinding_utils:saw_upgrade:0, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:1, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:2, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:3, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:4, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:5, Mob Masher Upgrade
-mob_grinding_utils:mob_swab, Mob Swab
-mob_grinding_utils:gm_chicken_feed, GM Chicken Feed
-mob_grinding_utils:null_sword, Imaginary Not Here Sword
 mob_grinding_utils:fan, Mob Fan
 mob_grinding_utils:saw, Mob Masher
 mob_grinding_utils:absorption_hopper, Absorption Hopper
@@ -10458,6 +10445,19 @@ mob_grinding_utils:dark_oak_stone, Dark Oak Stone
 mob_grinding_utils:entity_conveyor, Entity Conveyor
 mob_grinding_utils:ender_inhibitor_on, Ender Inhibitor Active
 mob_grinding_utils:ender_inhibitor_off, Ender Inhibitor Inactive
+mob_grinding_utils:fan_upgrade:0, Mob Fan Upgrade
+mob_grinding_utils:fan_upgrade:1, Mob Fan Upgrade
+mob_grinding_utils:fan_upgrade:2, Mob Fan Upgrade
+mob_grinding_utils:absorption_upgrade:0, Absorption Radius Upgrade
+mob_grinding_utils:saw_upgrade:0, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:1, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:2, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:3, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:4, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:5, Mob Masher Upgrade
+mob_grinding_utils:mob_swab, Mob Swab
+mob_grinding_utils:gm_chicken_feed, GM Chicken Feed
+mob_grinding_utils:null_sword, Imaginary Not Here Sword
 morechickens:solidxp, Solid Experience
 notenoughwands:wandcore, Wand Core
 notenoughwands:advanced_wandcore, Advanced Wand Core
